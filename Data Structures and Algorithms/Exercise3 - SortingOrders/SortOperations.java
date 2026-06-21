@@ -22,10 +22,10 @@ public class SortOperations {
 
         if (low < high) {
 
-            int pi = partition(orders, low, high);
+            int idx = partition(orders, low, high);
 
-            quickSort(orders, low, pi - 1);
-            quickSort(orders, pi + 1, high);
+            quickSort(orders, low, idx - 1);
+            quickSort(orders, idx + 1, high);
         }
     }
 

@@ -4,8 +4,11 @@ public class Main {
 
         TaskLinkedList list = new TaskLinkedList();
 
-        list.addTask(1, "Coding", "Pending");
-        list.addTask(2, "Testing", "Completed");
+        list.addTask(1, "Coding", "In Progress");
+        list.addTask(2, "Testing", "Pending");
+        list.addTask(3, "Documentation", "Pending");
+        list.addTask(4, "Code Review", "Completed");
+        list.addTask(5, "Deployment", "Pending");
 
         list.traverse();
     }
