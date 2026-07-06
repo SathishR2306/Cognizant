@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Mockito/MockitoHandson/Mockito-HandsOn.iml" filepath="$PROJECT_DIR$/Mockito/MockitoHandson/Mockito-HandsOn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SLF4J/SLF4JHandson/SLF4JHandsOn.iml" filepath="$PROJECT_DIR$/SLF4J/SLF4JHandson/SLF4JHandsOn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Test Driven Developement (TDD) and Logging framework.iml" filepath="$PROJECT_DIR$/.idea/Test Driven Developement (TDD) and Logging framework.iml" />
+    </modules>
+  </component>
+</project>
