@@ -1,0 +1,11 @@
+.container{
+    border:1px solid black;
+    width:400px;
+    padding:20px;
+    margin:20px;
+    border-radius:8px;
+}
+
+h2{
+    color:blue;
+}

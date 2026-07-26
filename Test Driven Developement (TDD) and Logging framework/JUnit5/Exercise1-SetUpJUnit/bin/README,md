@@ -1,0 +1,31 @@
+# JUnit Testing Exercises
+
+## Exercise 1 - Setting Up JUnit
+
+- Created a Maven Java project.
+- Added JUnit 4.13.2 dependency.
+- Created sample test class.
+
+## Exercise 3 - Assertions
+
+Implemented:
+
+- assertEquals()
+- assertTrue()
+- assertFalse()
+- assertNull()
+- assertNotNull()
+
+## Exercise 4 - AAA Pattern
+
+Implemented:
+
+- Arrange
+- Act
+- Assert
+- @Before
+- @After
+
+Run the tests using:
+
+mvn test
